@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #ACAFC3;
+    background-color: #e0f0ff;
 }
 
 .resume-main {
@@ -22,8 +22,7 @@ body {
 }
 
 .resume-aside {
-    background-color: #454366;
-    color: #FFFFFF;
+	background-color: #fff0e0;
 }
 
 /* Styles for lists in the document */
@@ -49,16 +48,14 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
-	
 }
 
-.btn-danger {background-color: #4890C3}
-
-.colortje {background-color: #5B4B60
-	
+.mybgcell1 { background-color: #3F4E73
 	
 }
+.mybgcell2 { background-color: #4893B7}
 
-.fw-bolder {
-    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
-}
+.mybgcell3 {background-color: cadetblue}
+
+.mybgcell4 {background-color: darkseagreen}
+
