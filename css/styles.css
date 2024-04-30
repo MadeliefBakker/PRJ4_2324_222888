@@ -59,6 +59,8 @@ body {
 	
 }
 
-.fw-bolder {
-    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+
+
+.fontmadelief{ 
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
 }
